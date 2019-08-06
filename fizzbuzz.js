@@ -14,7 +14,7 @@ function isFizzy(n) {
 /**
  * Returns true when n is divisible by 5
  * @param {Number} n 
- * @returns {Boolean buzziness
+ * @returns {Boolean} buzziness
  */
 function isBuzzy(n) {
   return n % 5 === 0
