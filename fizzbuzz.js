@@ -56,7 +56,6 @@ function fizzBuzz(count) {
   return result
 }
 
-module.exports.test = test
 module.exports.isFizzy = isFizzy
 module.exports.isBuzzy = isBuzzy
 module.exports.fizzyBuzzy = fizzyBuzzy
