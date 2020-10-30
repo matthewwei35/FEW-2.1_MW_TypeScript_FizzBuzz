@@ -97,7 +97,7 @@ You should test all of the properties in returned object.
 
 **Stretch Challenge 6** - Refactor the fizz buzz code. Take a look at make any changes you think would make the code more effiecient. Use your unit tests to make sure the code still works as expected. 
 
-**Stretch Challenge 7** - Parameterize the `fizzbuzz()` fucntion. Currently the function looks for multiples of 3 and 5. The code here would be more useful if we could look for multiples of any two values. Imagine fizz for multiples of 2 and buzz for multiples of 7. 
+**Stretch Challenge 7** - Parameterize the `fizzbuzz()` function. Currently the function looks for multiples of 3 and 5. The code here would be more useful if we could look for multiples of any two values. Imagine fizz for multiples of 2 and buzz for multiples of 7. 
 
 The fizzbuzz functio might look like this: 
 
