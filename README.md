@@ -31,6 +31,14 @@ You can test the code with node by running:
 - `mkdir tests`
 - `touch tests/test.js`
 
+Edit `package.json`: 
+
+```json
+"scripts": {
+  "test": "jest"
+}
+```
+
 Write your tests in `tests/test.js`. 
 
 A typcial test with Jest looks like: 
